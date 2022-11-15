@@ -1,0 +1,19 @@
+﻿  camera.cpp
+  cube.cpp
+C:\Users\jojop\source\repos\Paschke_PA3\FirstProgramGL\cube.cpp(123,65): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  engine.cpp
+C:\Users\jojop\source\repos\Paschke_PA3\FirstProgramGL\engine.cpp(64,23): warning C4244: 'return': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\jojop\source\repos\Paschke_PA3\FirstProgramGL\engine.cpp(81,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  graphics.cpp
+C:\Users\jojop\source\repos\Paschke_PA3\FirstProgramGL\graphics.cpp(106,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  main.cpp
+  Object.cpp
+C:\Users\jojop\source\repos\Paschke_PA3\FirstProgramGL\Object.cpp(99,65): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  pyramid.cpp
+C:\Users\jojop\source\repos\Paschke_PA3\FirstProgramGL\pyramid.cpp(88,65): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  shader.cpp
+  smallCube.cpp
+C:\Users\jojop\source\repos\Paschke_PA3\FirstProgramGL\smallCube.cpp(116,65): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  window.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1094,5): error MSB6006: "link.exe" exited with code 1181.
+LINK : fatal error LNK1181: cannot open input file 'glew32.lib'

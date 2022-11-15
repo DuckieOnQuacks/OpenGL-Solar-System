@@ -1,0 +1,3 @@
+﻿  graphics.cpp
+C:\Users\jojop\source\repos\Paschke_PA3\FirstProgramGL\graphics.cpp(106,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  FirstProgramGL.vcxproj -> C:\Users\jojop\source\repos\Paschke_PA3\x64\Debug\Paschke_HW2.exe
